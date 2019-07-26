@@ -1,5 +1,6 @@
 #This bot uses SELENIUM to download ALL pictures for a given Hashtag 
 #No login required
+#Makesure you are using ipython
 
 !pip install selenium
 !apt --fix-broken install
